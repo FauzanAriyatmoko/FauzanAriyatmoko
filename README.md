@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FauzanAriyatmoko
-- 📝 I’m study on Institute Of Technology Sepuluh Nopember
+- 📝 I’m study on Banchelor Of Physic, Institute Of Technology Sepuluh Nopember, Indonesian
 - 🌱 I’m currently learning basic of python code
 - 💞️ I’m looking to collaborate on study group for python coding
 
