@@ -3,7 +3,7 @@
 </h1>
 <div align="center">
     
-![](https://komarev.com/ghpvc/?username=Deri-Kurniawan) ![Followers](https://img.shields.io/github/followers/Deri-Kurniawan?label=Followers) ![Stars](https://img.shields.io/github/stars/Deri-Kurniawan?label=Stars)
+![](https://komarev.com/ghpvc/?username=FauzanAriyatmoko) ![Followers](https://img.shields.io/github/followersFauzanAriyatmoko?label=Followers) ![Stars](https://img.shields.io/github/stars/FauzanAriyatmoko?label=Stars)
 
 </div>
 
