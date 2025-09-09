@@ -5,7 +5,7 @@
 ### An Physics person who passionate about always interest and talent in Information Technology, especially for Data and AI, therefore I explore the field of machine learning and deep learning.
 
 - 🌱 I’m currently learning **[Dinov2](https://dinov2.metademolab.com/)**
-- 💬 Ask me about **Machine Learning, Deep Learning, Fundamentals Neural Networks...or anything [here](https://github.com/{FauzanAriyatmoko}/{FauzanAriyatmoko}/issues)**
+- 💬 Ask me about **Machine Learning, Deep Learning, Fundamentals Neural Networks...or anything [here](https://www.instagram.com/fauzan.ariyatmoko)**
 
 <br>
 
