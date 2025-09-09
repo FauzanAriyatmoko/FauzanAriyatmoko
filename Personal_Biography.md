@@ -3,3 +3,22 @@
 </h1>
 
 ### An Physics person who passionate about always interest and talent in Information Technology, especially for Data and AI, therefore I explore the field of machine learning and deep learning.
+
+- 🌱 I’m currently learning **[Dinov2](https://dinov2.metademolab.com/)**
+- 💬 Ask me about **Machine Learning, Deep Learning, Fundamentals Neural Networks...or anything [here](https://github.com/{FauzanAriyatmoko}/{FauzanAriyatmoko}/issues)**
+
+<br>
+
+<div align="center">
+  <a href="fauzan.ariyatmoko@gmai">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-fauzan-ariyatmoko" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://www.instagram.com/fauzan.ariyatmoko" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
+  </a>
+</div>
+
+<hr>
