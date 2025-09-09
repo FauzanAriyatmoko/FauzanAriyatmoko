@@ -31,7 +31,7 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,tensorflow,keras,pytorch,ioplatfrom,arduino,espressif" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,tensorflow,keras,pytorch,vscode,arduino,espressif" />
   <img src="https://skillicons.dev/icons?i=html,css,js,java,opencv,flask,aws,gcp,git,matlab,figma" />
 </p>
 
