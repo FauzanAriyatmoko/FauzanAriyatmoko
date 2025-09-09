@@ -25,3 +25,14 @@
 </div>
 
 <hr>
+
+## 🛠️ Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,C++,C#,tensorflow,keras,pytorch,ioplatfrom,arduino,espressif" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,huggingface,flask,,streamlit,docker,git,roboflow,figma" />
+</p>
+
+<hr>
