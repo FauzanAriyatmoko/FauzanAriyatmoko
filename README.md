@@ -1,11 +1,12 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=900&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Fauzan+Ariyatmoko🫡!;+I'm+Wanna+Be+AI/ML+Engineer👨‍💻" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=900&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Fauzan+Ariyatmoko🫡!;+I+Wanna+Be+AI/ML+Engineer👨‍💻" />
 </h1>
 
 ### An Physics person who passionate about always interest and talent in Information Technology, especially for Data and AI, therefore I explore the field of machine learning and deep learning.
-
-- 🌱 I’m currently learning **[Dinov2](https://dinov2.metademolab.com/)**
-- 💬 Ask me about **Machine Learning, Deep Learning, Fundamentals Neural Networks...or anything [here](https://www.instagram.com/fauzan.ariyatmoko)**
+- 👨‍💻 I'm currently working in Computer Vision Engineer
+- 👁️ Part Of Computer Vision Division in PT ABAROBOTICS
+- 🌱 My lastest learning about Semantic Segmentation and Depth Estimation **[Dinov2](https://dinov2.metademolab.com/)**
+- 💬 Ask me about **Machine Learning, Deep Learning, Fundamentals Neural Networks... or anything [here](https://www.instagram.com/fauzan.ariyatmoko)**
 
 <br>
 
