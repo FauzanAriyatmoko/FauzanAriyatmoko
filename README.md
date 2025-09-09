@@ -49,3 +49,5 @@
 </div>
 
 <hr>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FauzanAriyatmoko&theme=transparent&hide_border=true&border_radius=10&mode=weekly)](https://git.io/streak-stats)
