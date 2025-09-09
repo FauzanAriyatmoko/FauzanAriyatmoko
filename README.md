@@ -38,7 +38,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,tensorflow,anaconda,pytorch,vscode,arduino,discord" />
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,opencv,flask,aws,gcp,git,matlab,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,opencv,flask,aws,gcp,git,matlab,linux" />
 </p>
 
 ![](/assets/images/horizontal-divider-gradient.gif)
