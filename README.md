@@ -9,7 +9,7 @@
 - 📝 My lastest learning about Semantic Segmentation and Depth Estimation **[Dinov2](https://dinov2.metademolab.com/)**
 - 💬 Ask me about **Machine Learning, Deep Learning, Fundamentals Neural Networks... or anything [here](https://www.instagram.com/fauzan.ariyatmoko)**
 
-<br>
+![](/assets/images/horizontal-divider-gradient.gif)
 
 <div align="center">
   <a href="fauzan.ariyatmoko@gmai">
@@ -26,22 +26,22 @@
   </a>
 </div>
 
-<hr>
+![](/assets/images/horizontal-divider-gradient.gif)
 
 ## 🛠️ Languages and Tools
 
-<br>
+![](/assets/images/horizontal-divider-gradient.gif)
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,tensorflow,anaconda,pytorch,vscode,arduino,discord" />
   <img src="https://skillicons.dev/icons?i=html,css,js,java,opencv,flask,aws,gcp,git,matlab,github" />
 </p>
 
-<hr>
+![](/assets/images/horizontal-divider-gradient.gif)
 
 ## ⚡️ Stats
 
-<br>
+![](/assets/images/horizontal-divider-gradient.gif)
 
 <div align=center>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=FauzanAriyatmoko&theme=transparent&count_private=true&hide_border=true&border_radius=10&show_icons=true&rank_icon=github&locale=en" alt="FauzanAriyatmoko GitHub Stats" />
@@ -49,7 +49,7 @@
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=FauzanAriyatmoko&theme=transparent&hide_border=true&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="FauzanAriyatmoko Most Used Languages" />
 </div>
 
-<hr>
+![](/assets/images/horizontal-divider-gradient.gif)
 
 ## 🐍 My Contributions
 
@@ -61,4 +61,4 @@
   </picture>
 </div>
 
-<hr>
+![](/assets/images/horizontal-divider-gradient.gif)
