@@ -31,8 +31,8 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,C++,C#,tensorflow,keras,pytorch,ioplatfrom,arduino,espressif" />
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,huggingface,flask,,streamlit,docker,git,roboflow,figma" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,tensorflow,keras,pytorch,ioplatfrom,arduino,espressif" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,opencv,flask,aws,gcp,git,matlab,figma" />
 </p>
 
 <hr>
