@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @FauzanAriyatmoko
-- 📝 I’m study on Banchelor Of Physics, Sepuluh Nopember Institute of Technology, Indonesian
-- 🌱 I’m currently learning basic of python code
-- 💞️ I’m looking to collaborate on study group for python coding
-- 👾 Well know i'm currently learning to create a website with HTML and CSS programming languages.
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Chijioke+Okorji!;" />
+</h1>
 
-<!---
-FauzanAriyatmoko/FauzanAriyatmoko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### A full-stack software engineer passionate about building beautiful, functional, and user-centric web applications.
