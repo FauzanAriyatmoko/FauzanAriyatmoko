@@ -1,8 +1,6 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&hide_border=true&center=true&vCenter=true&width=900&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Fauzan+Ariyatmoko🫡!;+I+Wanna+Be+AI/ML+Engineer👨‍💻" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=900&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Fauzan+Ariyatmoko🫡!;+I+Wanna+Be+AI/ML+Engineer👨‍💻" />
 </h1>
-
-![](/assets/images/horizontal-divider-gradient.gif)
 
 ### An electronics instrumentation physicist, who passionate and interest about Information Technology, especially for Data and AI, therefore I explore the field of machine learning and deep learning.
 - 👨‍💻 I'm currently working in Computer Vision Engineer
@@ -12,6 +10,8 @@
 - 💬 Ask me about **Machine Learning, Deep Learning, Fundamentals Neural Networks... or anything [here](https://www.instagram.com/fauzan.ariyatmoko)**
 
 ![](/assets/images/horizontal-divider-gradient.gif)
+<h3 align="center">🤝Connect with Me🤝</h3>
+<div align="center"
 
 <div align="center">
   <a href="fauzan.ariyatmoko@gmai">
@@ -30,9 +30,11 @@
 
 ![](/assets/images/horizontal-divider-gradient.gif)
 
-## 🛠️ Languages and Tools
-
-![](/assets/images/horizontal-divider-gradient.gif)
+<div id="user-content-toc">
+  <ul>
+    <summary><h3 style="display: inline-block">🛠️ Languages and Tools</h3></summary>
+  </ul>
+</div>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,tensorflow,anaconda,pytorch,vscode,arduino,discord" />
@@ -41,9 +43,11 @@
 
 ![](/assets/images/horizontal-divider-gradient.gif)
 
-## ⚡️ Stats
-
-![](/assets/images/horizontal-divider-gradient.gif)
+<div id="user-content-toc">
+  <ul>
+    <summary><h3 style="display: inline-block">⚡My Statistic</h3></summary>
+  </ul>
+</div>
 
 <div align=center>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=FauzanAriyatmoko&theme=transparent&count_private=true&hide_border=true&border_radius=10&show_icons=true&rank_icon=github&locale=en" alt="FauzanAriyatmoko GitHub Stats" />
@@ -53,7 +57,11 @@
 
 ![](/assets/images/horizontal-divider-gradient.gif)
 
-## 🐍 My Contributions
+<div id="user-content-toc">
+  <ul>
+    <summary><h3 style="display: inline-block">🐍 My Contributions</h3></summary>
+  </ul>
+</div>
 
 <div align="center">
   <picture>
@@ -62,5 +70,3 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/FauzanAriyatmoko/FauzanAriyatmoko/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
-
-![](/assets/images/horizontal-divider-gradient.gif)
