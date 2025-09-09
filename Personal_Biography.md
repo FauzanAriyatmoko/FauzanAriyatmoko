@@ -19,6 +19,9 @@
   <a href="https://www.instagram.com/fauzan.ariyatmoko" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
   </a>
+  <a href="https://www.kaggle.com/f4uzan021102" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-1e1f26?style=for-the-badge&logo=kaggle&logoColor=white" target="_blank" />
+  </a>
 </div>
 
 <hr>
