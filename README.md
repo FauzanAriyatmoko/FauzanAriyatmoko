@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
   </a>
   <a href="https://www.kaggle.com/f4uzan021102" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-04A4FB?style=for-the-badge&logo=brave&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/Kaggle-04A4FB?style=for-the-badge&logo=kaggle&logoColor=white" target="_blank" />
   </a>
 </div>
 
