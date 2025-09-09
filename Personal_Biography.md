@@ -31,8 +31,8 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,tensorflow,anaconda,pytorch,vscode,arduino,espressif" />
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,opencv,flask,aws,gcp,git,matlab,figma" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,tensorflow,anaconda,pytorch,vscode,arduino,discord" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,opencv,flask,aws,gcp,git,matlab,github" />
 </p>
 
 <hr>
