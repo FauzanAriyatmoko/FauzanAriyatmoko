@@ -1,6 +1,8 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=900&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Fauzan+Ariyatmoko🫡!;+I+Wanna+Be+AI/ML+Engineer👨‍💻" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&hide_border=true&center=true&vCenter=true&width=900&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Fauzan+Ariyatmoko🫡!;+I+Wanna+Be+AI/ML+Engineer👨‍💻" />
 </h1>
+
+![](/assets/images/horizontal-divider-gradient.gif)
 
 ### An electronics instrumentation physicist, who passionate and interest about Information Technology, especially for Data and AI, therefore I explore the field of machine learning and deep learning.
 - 👨‍💻 I'm currently working in Computer Vision Engineer
