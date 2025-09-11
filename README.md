@@ -10,8 +10,8 @@
 ### Just an ordinary electronics instrumentation physicist, who passionate and interest about Information Technology, especially for Data and AI, therefore I explore the field of machine learning and deep learning.
 - 👨‍💻 Alhamdulillah, I'm currently working as Computer Vision Engineer
 - 👁️ I’m thrilled being a Part of Computer Vision & AI Division in PT ABAROBOTICS
-- ⛩️ Part Of AI Mentorship Member By Angga Muttaqqien (AIST JAPAN - AI Researcher)
-- 📝 My lastest learning about Semantic Segmentation and Depth Estimation **[Dinov2](https://dinov2.metademolab.com/)**
+- ⛩️ Part of AI Mentorship Member By Angga Muttaqqien (AIST JAPAN - AI Researcher)
+- 📝 My lastest learning about Semantic Segmentation and Depth Estimation with **[Dinov2](https://dinov2.metademolab.com/)**
 - 💬 Ask me about **Machine Learning, Deep Learning, Fundamentals Neural Networks... or anything [here](https://www.instagram.com/fauzan.ariyatmoko)**
 
 ![](/assets/images/horizontal-divider-gradient.gif)
