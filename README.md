@@ -7,7 +7,7 @@
 
 </div>
 
-### An electronics instrumentation physicist, who passionate and interest about Information Technology, especially for Data and AI, therefore I explore the field of machine learning and deep learning.
+### Just an ordinary electronics instrumentation physicist, who passionate and interest about Information Technology, especially for Data and AI, therefore I explore the field of machine learning and deep learning.
 - 👨‍💻 I'm currently working in Computer Vision Engineer
 - 👁️ Part Of Computer Vision & AI Division in PT ABAROBOTICS
 - ⛩️ Part Of AI Mentorship Member By Angga Muttaqqien (AIST JAPAN - AI Researcher)
