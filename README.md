@@ -68,7 +68,12 @@
   </ul>
 </div>
 
-<embed src="https://drive.google.com/file/d/1Q3jmS_uwwlr_O1_CSoP1tJXYg1Hc8k9n/view?usp=sharing" width="100%" height="850px"/>
+<iframe
+  src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://drive.google.com/file/d/1Q3jmS_uwwlr_O1_CSoP1tJXYg1Hc8k9n/view?usp=sharing"
+  width="100%"
+  height="600px"
+  style="border: none;">
+</iframe>
 
 ![](/assets/images/horizontal-divider-gradient.gif)
 
