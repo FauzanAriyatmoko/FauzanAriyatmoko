@@ -70,7 +70,7 @@
 
 <details>
 
-[📄 View Creative Portfolio](https://bit.ly/418PrjK)
+[📄View Creative Portfolio](https://bit.ly/418PrjK)
 
 </details>
 
