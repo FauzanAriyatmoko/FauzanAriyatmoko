@@ -68,7 +68,7 @@
   </ul>
 </div>
 
-![](/assets/images/creative-portfolio.pdf)
+<embed src="https://drive.google.com/file/d/1Q3jmS_uwwlr_O1_CSoP1tJXYg1Hc8k9n/view?usp=sharing" width="100%" height="850px"/>
 
 ![](/assets/images/horizontal-divider-gradient.gif)
 
