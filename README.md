@@ -70,7 +70,7 @@
 
 <details>
 
-[📄 View Creative Portfolio](https://github.com/FauzanAriyatmoko/FauzanAriyatmoko/blob/main/assets/images/Creative-Portfolio.pdf)
+[📄 View Creative Portfolio](https://bit.ly/418PrjK)
 
 </details>
 
