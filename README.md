@@ -69,9 +69,8 @@
 </div>
 
 <details>
-<summary>📝 My Creative Portfolio</summary>
 
-[📄 View my Creative Portfolio PDF](https://github.com/FauzanAriyatmoko/FauzanAriyatmoko/blob/main/assets/images/creative-portfollio.pdf)
+[📄 View my Creative Portfolio PDF](https://github.com/FauzanAriyatmoko/FauzanAriyatmoko/blob/main/assets/images/creative-portfolio.pdf)
 
 </details>
 
