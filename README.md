@@ -64,6 +64,26 @@
 
 <div id="user-content-toc">
   <ul>
+    <summary><h3 style="display: inline-block">📝 My Creative Portfolio</h3></summary>
+  </ul>
+</div>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>PDF Viewer</title>
+</head>
+<body>
+    <iframe src="/assets/images/creative-portfollio.pdf" width="100%" height="800px"></iframe>
+    <!-- Or using embed: -->
+    <!-- <embed src="./yourfile.pdf" type="application/pdf" width="100%" height="800px" /> -->
+</body>
+</html>
+
+![](/assets/images/horizontal-divider-gradient.gif)
+
+<div id="user-content-toc">
+  <ul>
     <summary><h3 style="display: inline-block">🐍 My Contributions</h3></summary>
   </ul>
 </div>
