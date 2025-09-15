@@ -68,17 +68,7 @@
   </ul>
 </div>
 
-<!DOCTYPE html>
-<html>
-<head>
-    <title>PDF Viewer</title>
-</head>
-<body>
-    <iframe src="/assets/images/creative-portfollio.pdf" width="100%" height="800px"></iframe>
-    <!-- Or using embed: -->
-    <!-- <embed src="./yourfile.pdf" type="application/pdf" width="100%" height="800px" /> -->
-</body>
-</html>
+![](/assets/images/creative-portfolio.pdf)
 
 ![](/assets/images/horizontal-divider-gradient.gif)
 
