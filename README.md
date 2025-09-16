@@ -19,11 +19,12 @@
 <div align="center"
 
 <div align="center">
+  <a class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="muhammad-fauzan-ariyatmoko" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://id.linkedin.com/in/muhammad-fauzan-ariyatmoko?trk=profile-badge">Muhammad Fauzan Ariyatmoko</a>     
+</div>
+
+<div align="center">
   <a href="fauzan.ariyatmoko@gmai">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/muhammad-fauzan-ariyatmoko" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://www.instagram.com/fauzan.ariyatmoko" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
