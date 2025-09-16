@@ -19,10 +19,6 @@
 <div align="center"
 
 <div align="center">
-  <a class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="muhammad-fauzan-ariyatmoko" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://id.linkedin.com/in/muhammad-fauzan-ariyatmoko?trk=profile-badge">Muhammad Fauzan Ariyatmoko</a>     
-</div>
-
-<div align="center">
   <a href="fauzan.ariyatmoko@gmai">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
