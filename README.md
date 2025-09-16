@@ -56,7 +56,7 @@
 
 <div align=center>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=FauzanAriyatmoko&theme=transparent&count_private=true&hide_border=true&border_radius=10&show_icons=true&rank_icon=github&locale=en" alt="GitHub Statistic" />
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=FauzanAriyatmoko&theme=transparent&hide_border=true&border_radius=10&mode=weekly" alt="My Code Streak" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=FauzanAriyatmoko&theme=transparent&hide_border=true&border_radius=10&mode=weekly&show_icons=true&locale=en" alt="My Code Streak" />
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=FauzanAriyatmoko&theme=transparent&hide_border=true&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Most Used Programing Languages" />
 </div>
 
