@@ -64,20 +64,6 @@
 
 <div id="user-content-toc">
   <ul>
-    <summary><h3 style="display: inline-block">📝 My Creative Portfolio</h3></summary>
-  </ul>
-</div>
-
-<details>
-
-[📄View Creative Portfolio](https://bit.ly/418PrjK)
-
-</details>
-
-![](/assets/images/horizontal-divider-gradient.gif)
-
-<div id="user-content-toc">
-  <ul>
     <summary><h3 style="display: inline-block">🐍 My Contributions</h3></summary>
   </ul>
 </div>
