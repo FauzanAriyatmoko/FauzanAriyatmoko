@@ -8,7 +8,9 @@
 </div>
 
 ### Just an ordinary electronics instrumentation physicist, who passionate and interest about Information Technology, especially for Data and AI, therefore I explore the field of machine learning and deep learning.
-- 👨‍💻 Alhamdulillah, I'm currently working as Computer Vision Engineer
+- 👨‍💻 Working as Computer Vision Engineer (Approximately 1 Year)
+- 👨‍🏫 Served as a mentor for a machine learning engineer class at the DBS Foundation X Dicoding event (6 Month)
+- 👨‍🎓 Graduated Machine Learning Cohort from Bangkit Academy supported by Google and GoTo 2024 Batch 1
 - 👁️ I’m thrilled being a Part of Computer Vision & AI Division in Nusapala Berkah Autonomus Company
 - 📝 My lastest learning about Semantic Segmentation and Depth Estimation with **[Dinov2](https://dinov2.metademolab.com/)**
 - 💬 Ask me about **Machine Learning, Deep Learning, Fundamentals Neural Networks... or anything [here](https://www.instagram.com/fauzan.ariyatmoko)**
